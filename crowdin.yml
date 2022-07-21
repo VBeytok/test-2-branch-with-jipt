@@ -2,5 +2,6 @@ files:
   - source: /*.json
     translation: /translated/%two_letters_code%/%original_file_name%
     "excluded_target_languages": [
-      "ach"
+      "ach",
+      "uk"
     ]
