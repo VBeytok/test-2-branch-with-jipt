@@ -27,8 +27,8 @@ jobs:
         download_translations: true
         download_language: ach
 
-        crowdin_branch_name: main
-        localization_branch_name: l10n-in-context
+        #crowdin_branch_name: main
+
 
         # global options
         project_id: 528172
