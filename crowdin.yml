@@ -1,4 +1,4 @@
-excluded_target_languages: [
+export_languages: [
   "ach",
   "uk"
 ]
