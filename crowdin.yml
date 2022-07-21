@@ -1,5 +1,8 @@
 export_languages: [
-  "ach",
+  "it",
+  "ja",
+  "lv",
+  "pl",
   "uk"
 ]
 
